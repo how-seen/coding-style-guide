@@ -48,6 +48,8 @@ Getters 相当于 vue 文件中的 computed 属性。
 
 Mutation 修改的 State 中的属性时需要保持原子化，即一个 Mutation 只修改一个属性，参数名称应为 state 中的字段名称。
 
+Mutation 的函数命名必须为`全大写形式`，多个单词使用 `_` 分割
+
 风格参考：
 
 ```javascript
