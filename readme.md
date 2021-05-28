@@ -10,6 +10,8 @@
 
 [vue cli 环境变量风格](frontend/vue/vue-cli.md)
 
+[vue 文件拆分指南](frontend/vue/vue-split.md)
+
 ### javascript
 
 [javascript 代码风格](frontend/javascript.md)
