@@ -1,17 +1,20 @@
-# 👾 代码风格指南
+# 👾 代码风格/规范指南
 
-## vue
+## 前端
 
-[vue 单文件代码风格](vue/vue.md)
+### vue
 
-[vuex 代码风格](vue/vuex.md)
+[vue 单文件代码风格](frontend/vue/vue.md)
 
-[vue cli 环境变量风格](vue/vue-cli.md)
+[vuex 代码风格](frontend/vue/vuex.md)
 
-## javascript
+[vue cli 环境变量风格](frontend/vue/vue-cli.md)
 
-[javascript 代码风格](javascript.md)
+### javascript
 
-## 命名参考
+[javascript 代码风格](frontend/javascript.md)
 
-[命名风格](javascript.md)
+
+## 前/后端通用的命名风格
+
+[命名风格](naming.md)
