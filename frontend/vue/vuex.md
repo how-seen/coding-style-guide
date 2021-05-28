@@ -42,7 +42,7 @@ Getters 相当于 vue 文件中的 computed 属性。
 }
 ```
 
-## Mutatinos
+## Mutations
 
 **Mutation 必须是同步函数**
 
