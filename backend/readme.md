@@ -14,3 +14,4 @@
 ## java 学习资源
 
 1. [dunwu/spring-boot-tutorial](https://github.com/dunwu/spring-boot-tutorial)
+2. [spring boot + mybatis plus](https://juejin.cn/post/6844903862004875272)
