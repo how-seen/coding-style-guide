@@ -17,3 +17,4 @@
 2. [spring boot + mybatis plus](https://juejin.cn/post/6844903862004875272)
 3. [halo-dev/halo](https://github.com/halo-dev/halo)
 4. [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial)
+5. [biezhi/30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8)
