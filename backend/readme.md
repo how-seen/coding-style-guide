@@ -3,6 +3,7 @@
 ## 规范参考
 
 1. [alibaba/p3c](https://github.com/alibaba/p3c)
+2. [java 项目包名（package）命名规则](https://www.cnblogs.com/Haidnor/p/12241224.html)
 
 ## 项目模板参考
 
