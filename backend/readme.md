@@ -18,3 +18,13 @@
 3. [halo-dev/halo](https://github.com/halo-dev/halo)
 4. [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial)
 5. [biezhi/30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8)
+
+## 一些实用的第三方包
+
+1. [google/guava](https://github.com/google/guava) Google core libraries for Java
+2. [sizovs/PipelinR](https://github.com/sizovs/PipelinR) A lightweight command processing pipeline
+3. [projectlombok/lombok](https://github.com/projectlombok/lombok) Very spicy additions to the Java programming language
+4. [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus) An powerful enhanced toolkit of MyBatis for simplify development
+5. [alibaba/druid](https://github.com/alibaba/druid) 为监控而生的数据库连接池
+6. [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) An annotation processor for generating type-safe bean mappers
+7. [dromara/hutool](https://github.com/dromara/hutool) A set of tools that keep Java sweet
