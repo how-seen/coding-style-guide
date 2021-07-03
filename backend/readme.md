@@ -21,6 +21,15 @@
 
 ## 一些实用的第三方包
 
+### spring-boot 系列
+
+1. spring-boot-starter-web
+2. [spring-boot-starter-validation](https://spring.io/guides/gs/validating-form-input)
+3. spring-boot-devtools
+4. spring-boot-configuration-processor
+
+### 其他
+
 1. [google/guava](https://github.com/google/guava) Google core libraries for Java
 2. [sizovs/PipelinR](https://github.com/sizovs/PipelinR) A lightweight command processing pipeline
 3. [projectlombok/lombok](https://github.com/projectlombok/lombok) Very spicy additions to the Java programming language
@@ -28,3 +37,4 @@
 5. [alibaba/druid](https://github.com/alibaba/druid) 为监控而生的数据库连接池
 6. [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) An annotation processor for generating type-safe bean mappers
 7. [dromara/hutool](https://github.com/dromara/hutool) A set of tools that keep Java sweet
+8. mysql-connector-java
