@@ -18,7 +18,7 @@
 
 ## 后端
 
-[后端代码规范](backend/readme.md)
+[后端编程指南](backend/readme.md)
 
 ## 前/后端通用的命名风格
 
