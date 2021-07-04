@@ -55,3 +55,6 @@
 6. [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) An annotation processor for generating type-safe bean mappers
 7. [dromara/hutool](https://github.com/dromara/hutool) A set of tools that keep Java sweet
 8. mysql-connector-java
+9. [Hutool](https://hutool.cn)
+10. [Sa-Token](http://sa-token.dev33.cn)
+11. [Sureness](https://usthe.com/sureness/zh-cn)
