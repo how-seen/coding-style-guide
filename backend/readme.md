@@ -30,9 +30,10 @@
 5. [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/index.html)
 
     5.1. [Spring Boot Actuator: Production-ready Features](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html)
-    
+
     5.2. [Deploying Spring Boot Applications](https://docs.spring.io/spring-boot/docs/current/reference/html/deployment.html)
 
+    5.3. [Common Application Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
 
 ### 其他
 
