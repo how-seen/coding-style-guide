@@ -27,6 +27,7 @@
 2. [spring-boot-starter-validation](https://spring.io/guides/gs/validating-form-input)
 3. spring-boot-devtools
 4. spring-boot-configuration-processor [作用](https://blog.csdn.net/weixin_43328357/article/details/106993172) [官方文档](https://docs.spring.io/spring-boot/docs/current/reference/html/configuration-metadata.html#configuration-metadata.annotation-processor) [集成步骤总结](https://www.cnblogs.com/myesn/p/spring-boot-integration-spring-boot-configuration-processor.html)
+5. [Spring Boot Actuator: Production-ready Features](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html)
 
 ### 其他
 
