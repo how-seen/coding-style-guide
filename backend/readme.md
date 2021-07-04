@@ -31,6 +31,8 @@
 
     5.1. [Spring Boot Features](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html)
 
+    5.2. [Developing with Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/using.html)
+
     5.2. [Spring Boot Actuator: Production-ready Features](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html)
 
     5.3. [Deploying Spring Boot Applications](https://docs.spring.io/spring-boot/docs/current/reference/html/deployment.html)
