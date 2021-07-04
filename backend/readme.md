@@ -35,6 +35,8 @@
 
     5.3. [Common Application Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
 
+    5.4. [Auto-configuration Classes](https://docs.spring.io/spring-boot/docs/current/reference/html/auto-configuration-classes.html#auto-configuration-classes)
+
 ### 其他
 
 1. [google/guava](https://github.com/google/guava) Google core libraries for Java
