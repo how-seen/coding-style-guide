@@ -43,6 +43,8 @@
 
     5.7. [Configuration Metadata](https://docs.spring.io/spring-boot/docs/current/reference/html/configuration-metadata.html)
 
+6. [Spring Boot Guides](https://spring.io/guides)
+
 ### 其他
 
 1. [google/guava](https://github.com/google/guava) Google core libraries for Java
