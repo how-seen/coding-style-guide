@@ -58,3 +58,4 @@
 9. [Hutool](https://hutool.cn)
 10. [Sa-Token](http://sa-token.dev33.cn)
 11. [Sureness](https://usthe.com/sureness/zh-cn)
+12. [alibaba/Sentinel](https://github.com/alibaba/Sentinel) 限流组件
