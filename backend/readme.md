@@ -33,13 +33,15 @@
 
     5.2. [Developing with Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/using.html)
 
-    5.2. [Spring Boot Actuator: Production-ready Features](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html)
+    5.3. [Spring Boot Actuator: Production-ready Features](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html)
 
-    5.3. [Deploying Spring Boot Applications](https://docs.spring.io/spring-boot/docs/current/reference/html/deployment.html)
+    5.4. [Deploying Spring Boot Applications](https://docs.spring.io/spring-boot/docs/current/reference/html/deployment.html)
 
-    5.4. [Common Application Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
+    5.5. [Common Application Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
 
-    5.5. [Auto-configuration Classes](https://docs.spring.io/spring-boot/docs/current/reference/html/auto-configuration-classes.html#auto-configuration-classes)
+    5.6. [Auto-configuration Classes](https://docs.spring.io/spring-boot/docs/current/reference/html/auto-configuration-classes.html#auto-configuration-classes)
+
+    5.7. [Configuration Metadata](https://docs.spring.io/spring-boot/docs/current/reference/html/configuration-metadata.html)
 
 ### 其他
 
