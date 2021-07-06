@@ -30,6 +30,8 @@
 
     6.4. [convertAndSendToUser() Where does this username come from ?](https://stackoverflow.com/a/47956531)
 
+    6.5. [spring.io/guides/gs/messaging-stomp-websocket](https://spring.io/guides/gs/messaging-stomp-websocket)
+
 7. spring boot events
 
     7.1. [Spring Boot Application Events Explained](https://reflectoring.io/spring-boot-application-events-explained)
