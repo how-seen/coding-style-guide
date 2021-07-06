@@ -18,7 +18,7 @@
 3. [halo-dev/halo](https://github.com/halo-dev/halo)
 4. [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial)
 5. [biezhi/30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8)
-6. WebSocket
+6. websocket
 
     6.0. [What is the difference between @EnableWebSocket and @EnableWebSocketMessageBroker](https://stackoverflow.com/questions/51474358/what-is-the-difference-between-enablewebsocket-and-enablewebsocketmessagebroke)
 
@@ -29,6 +29,14 @@
     6.3. [The MessageBroker WebSocket Subprotocol](https://tools.ietf.org/id/draft-hapner-hybi-messagebroker-subprotocol-00.html)
 
     6.4. [convertAndSendToUser() Where does this username come from ?](https://stackoverflow.com/a/47956531)
+
+7. spring boot events
+
+    7.1. [Spring Boot Application Events Explained](https://reflectoring.io/spring-boot-application-events-explained)
+
+    7.2. [SpringBoot使用ApplicationEvent&Listener完成业务解耦](https://segmentfault.com/a/1190000011433514)
+
+    7.3. [SpringBoot中@EventListener注解的使用](https://segmentfault.com/a/1190000039097608)
 
 ## 一些实用的第三方包
 
