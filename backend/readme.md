@@ -18,6 +18,15 @@
 3. [halo-dev/halo](https://github.com/halo-dev/halo)
 4. [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial)
 5. [biezhi/30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8)
+6. WebSocket
+
+    6.0. [What is the difference between @EnableWebSocket and @EnableWebSocketMessageBroker](https://stackoverflow.com/questions/51474358/what-is-the-difference-between-enablewebsocket-and-enablewebsocketmessagebroke)
+
+    6.1. [WebSocket Browser Apps with Spring](http://rstoyanchev.github.io/s2gx2013-websocket-browser-apps-with-spring)
+
+    6.2. [Message queues vs sockets](https://stackoverflow.com/questions/10668028/message-queues-vs-sockets)
+
+    6.3. [The MessageBroker WebSocket Subprotocol](https://tools.ietf.org/id/draft-hapner-hybi-messagebroker-subprotocol-00.html)
 
 ## 一些实用的第三方包
 
